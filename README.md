@@ -6,7 +6,7 @@
 
 ![Descripción de la imagen](img/img.png)
 
-Clone este repositorio: 
+ * Clone este repositorio: 
 ```sh
 git clone https://github.com/isaac1965/vim-improved
 ```
