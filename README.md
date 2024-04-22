@@ -4,3 +4,8 @@
 
 
 ![Descripción de la imagen](img/img.png)
+
+Clone este repositorio: 
+```bash
+git clone https://github.com/isaac1965/vim-improved.git
+```
