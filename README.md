@@ -1,4 +1,4 @@
-# Vim Improved
+# Vim Improved 🚀
 
 ![Vimscript](https://img.shields.io/badge/vimscript-VIM-green?style=for-the-badge&logo=vim&logoColor=green&label=vimscript&labelColor=gray&color=48cc30)
 ![Version](https://img.shields.io/badge/9.1-k4?style=for-the-badge&label=Version&labelColor=black)
