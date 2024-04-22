@@ -16,7 +16,7 @@ git clone https://github.com/isaac1965/vim-improved
   cd vim-improved
 ```
 * Mueva el directorio `.vim` y el archivo `.vimrc` a su directorio `home`:
-
-  ```sh
+ 
+```sh
   mv .vim .vimrc ~/
-  ```
+ ```
