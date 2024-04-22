@@ -21,7 +21,7 @@ function! AirlineInit()
       let g:airline_section_a = airline#section#create(['mode'])
       let g:airline_section_b = airline#section#create(['branch'])
       "file=NombreDelArchivo  getcwd=RutaDelArchivo strftime=ImprimeFechaYHora
-      let g:airline_section_c= airline#section#create_left(['%{strftime(" %d-%m-%Y")}','%{toupper(strftime(" %H:%H %p"))}', '  Hello Isaac'])
+      let g:airline_section_c= airline#section#create_left(['%{strftime(" %d-%m-%Y")}','%{toupper(strftime(" %H:%H %p"))}'])
       let g:airline_section_z = airline#section#create_right(['%p%%', '%l:%c','%L'])
 endfunction
 autocmd User AirlineAfterInit call AirlineInit()
