@@ -6,6 +6,7 @@
 ![Descripción de la imagen](img/img.png)
 > [!NOTE]
 > by default if you clone the repository you will not get the desired configuration clone the repository and follow the instructions
+> ![If you have problems running :PlugInstall from vim click this link](https://github.com/junegunn/vim-plug)
 
 >  [!WARNING]
 > This configuration uses Plug as the plugin manager, enter it into your `vim` and run a `:PlugInstall` if you don't see any effect when entering for the first time 
