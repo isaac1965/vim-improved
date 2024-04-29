@@ -4,12 +4,14 @@
 [![Paypal](https://img.shields.io/badge/coffe-e?style=for-the-badge&logo=buymeacoffee&logoColor=b2b2b2&label=buy%20me%20a&labelColor=red&color=14bcb9)](https://paypal.me/buymeacoffe1996?country.x=VE&locale.x=es_XC)
 
 ![Descripción de la imagen](img/img.png)
+
+>  [!WARNING]
+> This configuration uses Plug as the plugin manager, enter it into your `vim` and run a `:PlugInstall` if you don't see any effect when entering for the first time
+
 > [!NOTE]
 > by default if you clone the repository you will not get the desired configuration clone the repository and follow the instructions
 > ![If you have problems running :PlugInstall from vim click this link](https://github.com/junegunn/vim-plug)
 
->  [!WARNING]
-> This configuration uses Plug as the plugin manager, enter it into your `vim` and run a `:PlugInstall` if you don't see any effect when entering for the first time 
  * Clone este repositorio: 
 ```sh
 git clone https://github.com/isaac1965/vim-improved
