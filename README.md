@@ -12,6 +12,8 @@
 > by default if you clone the repository you will not get the desired configuration clone the repository and follow the instructions
 > ![If you have problems running :PlugInstall from vim click this link](https://github.com/junegunn/vim-plug)
 
+> [!CAUTION]
+> If after reading all the vim-plug documentation your problem persists, check that the version you use is the same as the one used in this repository
  * Clone este repositorio: 
 ```sh
 git clone https://github.com/isaac1965/vim-improved
