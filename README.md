@@ -30,3 +30,5 @@ git clone https://github.com/isaac1965/vim-improved
 ```sh
   mv .vim .vimrc ~/
  ```
+> [!TIP]
+> to enjoy!
