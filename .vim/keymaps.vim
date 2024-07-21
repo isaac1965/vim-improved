@@ -32,8 +32,8 @@ map <Leader>fb :Buffers<cr>
 map <Leader>ff :Files<CR>
 nnoremap <leader>bf :bd<CR>
 
-
-
+"FZF Color schemes
+nnoremap <leader>cc :Colors<CR>
 
 "Faster scrolling
 nnoremap <C-u> 10<C-e>
